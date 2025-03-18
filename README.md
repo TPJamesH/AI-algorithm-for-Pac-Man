@@ -1,5 +1,5 @@
 # Implementation:
-## Search
+## Search (1 to 7)
 - Depth-first, breadth-first, uniform cost, and A* search algorithms
 ## Multiagent Search
 - Multiagent minimax, expectimax, and designing evaluation functions
